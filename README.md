@@ -56,7 +56,8 @@ Port="5432"
 
 ```
 ### step 7: testing locally by running python app.py
-
+* run 程式：python app.py
+* 測試結果如圖
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx

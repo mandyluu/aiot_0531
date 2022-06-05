@@ -62,13 +62,12 @@ Port="5432"
 
 delete .git and git remote add origin master github.com/xxxxx
 
-
 ### step 9: Heroku deploy from github
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+heroku_link :
+https://aiot0531lu.herokuapp.com/noAI
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+github_link :
+https://github.com/mandyluu/aiot_0530

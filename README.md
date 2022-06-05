@@ -70,4 +70,4 @@ heroku_link :
 https://aiot0531lu.herokuapp.com/noAI
 
 github_link :
-https://github.com/mandyluu/aiot_0530
+https://github.com/mandyluu/aiot_0531

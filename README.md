@@ -41,8 +41,7 @@ Port="5432"
 ```
 ### step 5: import postgredb (in db/postgre.db)
 * 載入老師的db資料夾中的"postgredb.sql"並執行
-<img src="step5_1.png" width="700"/>
-<img src="step5_2.png" width="700"/>
+
 ### step 6: setting db in app.py
 
 
@@ -59,6 +58,12 @@ Port="5432"
 ### step 7: testing locally by running python app.py
 * run 程式：python app.py
 * 測試結果如圖
+
+<img src="step7_1.png" width="700"/>
+<img src="step7_2.png" width="700"/>
+
+<img src="step5_1.png" width="700"/>
+<img src="step5_2.png" width="700"/>
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx

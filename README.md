@@ -59,11 +59,11 @@ Port="5432"
 * run 程式：python app.py
 * 測試結果如圖
 
-<img src="step7_1.png" width="700"/>
-<img src="step7_2.png" width="700"/>
+<img src="step7_1.png" width="750"/>
+<img src="step7_2.png" width="750"/>
 
-<img src="step7_3.png" width="700"/>
-<img src="step7_4.png" width="700"/>
+<img src="step7_3.png" width="900"/>
+<img src="step7_4.png" width="900"/>
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
@@ -72,7 +72,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 * 可以注意到網址已經跟前面step7時的不一樣了
-<img src="last_step.png" width="700"/>
+<img src="last_step.png" width="900"/>
 * heroku_link :
 https://aiot0531lu.herokuapp.com/noAI
 

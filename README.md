@@ -41,7 +41,8 @@ Port="5432"
 ```
 ### step 5: import postgredb (in db/postgre.db)
 * 載入老師的db資料夾中的"postgredb.sql"並執行
-
+<img src="5_1.png" alt="Cover" width="50%"/>
+<img src="5_2.png" alt="Cover" width="50%"/>
 ### step 6: setting db in app.py
 
 

@@ -71,7 +71,7 @@ delete .git and git remote add origin master github.com/xxxxx
 ### step 9: Heroku deploy from github
 
 ### step 10: Complete
-<img src="step7_4.png" width="700"/>
+<img src="step10.png" width="700"/>
 
 * heroku_link :
 https://aiot0531lu.herokuapp.com/noAI

@@ -62,8 +62,8 @@ Port="5432"
 <img src="step7_1.png" width="700"/>
 <img src="step7_2.png" width="700"/>
 
-<img src="step5_1.png" width="700"/>
-<img src="step5_2.png" width="700"/>
+<img src="step7_3.png" width="700"/>
+<img src="step7_4.png" width="700"/>
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
@@ -71,9 +71,10 @@ delete .git and git remote add origin master github.com/xxxxx
 ### step 9: Heroku deploy from github
 
 ### step 10: Complete
+<img src="step7_4.png" width="700"/>
 
-heroku_link :
+* heroku_link :
 https://aiot0531lu.herokuapp.com/noAI
 
-github_link :
+* github_link :
 https://github.com/mandyluu/aiot_0531

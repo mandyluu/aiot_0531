@@ -73,6 +73,7 @@ delete .git and git remote add origin master github.com/xxxxx
 ### step 10: Complete
 * 可以注意到網址已經跟前面step7時的不一樣了
 <img src="last_step.png" width="900"/>
+
 * heroku_link :
 https://aiot0531lu.herokuapp.com/noAI
 
